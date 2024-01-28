@@ -1,0 +1,36 @@
+.cal {
+  width: 400px;
+  height: 680px;
+  background: rgb(124, 86, 228);
+  margin-left: 400px;
+  border-radius: 10px;
+}
+#screen {
+  margin-top: 48px;
+  margin-left: 29px;
+  width: 338px;
+  height: 79px;
+  pointer-events: none;
+  float: left;
+  border-radius: 10px;
+  font-weight: bold;
+}
+.btn {
+  margin-left: 12px;
+  height: 71px;
+  width: 81px;
+  margin-top: 31px;
+  background-color: #ffffff;
+  border-radius: 50px;
+  font-weight: 700;
+}
+.heading {
+  margin-left: 12px;
+  height: 71px;
+  width: 81px;
+  margin-top: 31px;
+  background-color: #ffffff;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 1.5em; 
+}
